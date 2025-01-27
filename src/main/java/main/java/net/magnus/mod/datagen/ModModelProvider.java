@@ -116,6 +116,7 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.ENDERITE_BOOTS));
 
         itemModelGenerator.register(ModItems.ENDERITE_HORSE_ARMOR, Models.GENERATED);
+        itemModelGenerator.register(ModItems.ENDERITE_SMITHING_TEMPLATE, Models.GENERATED);
 
         itemModelGenerator.register(ModItems.ENDER_BRUTE_SPAWN_EGG,
                 new Model(Optional.of(Identifier.of("item/template_spawn_egg")), Optional.empty()));

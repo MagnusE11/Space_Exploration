@@ -97,5 +97,8 @@
   "entity.mod.ender_worm": "Ender Worm",
   "entity.mod.enderite_spear": "Enderite Spear",
   "block.mod.chair": "Chair",
-  "item.mod.enderite_spear": "Enderite Spear"
+  "item.mod.enderite_spear": "Enderite Spear",
+  "item.mod.enderite_smithing_template": "Space Smithing Template",
+  "trim_material.mod.enderite": "Space Material",
+  "trim_pattern.mod.enderite": "Space Armor Pattern"
 }

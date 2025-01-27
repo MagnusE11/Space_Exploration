@@ -1,9 +1,10 @@
-// 1.21	2025-01-27T16:04:59.4110873	Mod/Tags for minecraft:item
+// 1.21	2025-01-27T22:40:13.0166654	Mod/Tags for minecraft:item
 6a252b5decf3ad23aa5f8514dd130d1e8740775d data\minecraft\tags\item\enchantable\mining.json
-466ac3e8ed3874fc20e37d7ee9a58d9b1a47b5d8 data\minecraft\tags\item\trimmable_armor.json
+f3e9afc0d722d1c0545609217e21f2252ee1529c data\minecraft\tags\item\trimmable_armor.json
 f93572d7ee2ec476fdd5bf1c5f4857ba96503ba5 data\minecraft\tags\item\wooden_pressure_plates.json
 074a5dd5b295f99fff31ffb2bce03465d5367180 data\minecraft\tags\item\enchantable\foot_armor.json
 b9326ee32599b8024196e2155e487928b942a408 data\minecraft\tags\item\creeper_drop_music_discs.json
+f7dddc4538bec9763c2e1d91652404211d6e9bd7 data\minecraft\tags\item\trim_templates.json
 675b03e19fcc68ce241d58dd4dc424fcaa7d4ff9 data\minecraft\tags\item\enchantable\durability.json
 074a5dd5b295f99fff31ffb2bce03465d5367180 data\minecraft\tags\item\foot_armor.json
 ec24c96e451266b74ccecc1860615984009b6883 data\minecraft\tags\item\enchantable\chest_armor.json
@@ -17,13 +18,14 @@ ec24c96e451266b74ccecc1860615984009b6883 data\minecraft\tags\item\chest_armor.js
 85169c1955a8eba31b2f0606bf4318c21580de20 data\minecraft\tags\item\wooden_trapdoors.json
 2681c454accd98f72e2596b737b70e3464c2f53e data\minecraft\tags\item\swords.json
 43182e6c8e9d4844c52383552a865c32c6ebf73f data\minecraft\tags\item\pickaxes.json
-d1d70717ac37511acad21bfabfdd9638225fdc3c data\minecraft\tags\item\shovels.json
 aa882fd8a992b725bb11b47f479870e7f35b606f data\minecraft\tags\item\axes.json
+d1d70717ac37511acad21bfabfdd9638225fdc3c data\minecraft\tags\item\shovels.json
 b9326ee32599b8024196e2155e487928b942a408 data\mod\tags\item\music_discs.json
+22752bd213d57903c3a4da0f0994f6b15c2449a6 data\minecraft\tags\item\trim_materials.json
 49c4fb38600f349c3dfdf5ec9c0b994b2aa86200 data\minecraft\tags\item\head_armor.json
 fc4184ee7d27887edcbee8d0f1778f215bdc8f9a data\minecraft\tags\item\hoes.json
-be6ce19a7a4b4a0035e4882134abb0b9ccbad4bf data\minecraft\tags\item\wooden_stairs.json
 b419dfcb9d28c91a3981917044efc156cf4a7b65 data\minecraft\tags\item\saplings.json
+be6ce19a7a4b4a0035e4882134abb0b9ccbad4bf data\minecraft\tags\item\wooden_stairs.json
 07686f01078258a91ab9e79108025c5380f99707 data\minecraft\tags\item\wooden_buttons.json
 6a252b5decf3ad23aa5f8514dd130d1e8740775d data\minecraft\tags\item\enchantable\mining_loot.json
 dd3e68d8ab5e26c32e731e87e16d0852f0f8095f data\mod\tags\item\spawn_eggs.json

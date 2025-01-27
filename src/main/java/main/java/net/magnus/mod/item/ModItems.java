@@ -10,6 +10,7 @@ import net.minecraft.component.DataComponentTypes;
 import net.minecraft.item.*;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
+import net.minecraft.resource.featuretoggle.FeatureFlags;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.Rarity;
 
@@ -136,6 +137,12 @@ public class ModItems {
             new SpawnEggItem(ModEntities.ENDER_WORM, 	0, 13370285,
                     new Item.Settings()));
 
+    public static final Item ENDERITE_SMITHING_TEMPLATE = registerItem("enderite_smithing_template",
+            SmithingTemplateItem.of(
+                    Identifier.of(Mod.MOD_ID, "enderite"),
+                    FeatureFlags.VANILLA)
+    );
+
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, Identifier.of(Mod.MOD_ID, name), item);
@@ -165,6 +172,7 @@ public class ModItems {
             entries.add(ENDERITE_CHESTPLATE);
             entries.add(ENDERITE_LEGGINGS);
             entries.add(ENDERITE_BOOTS);
+            entries.add(ENDERITE_SMITHING_TEMPLATE);
             entries.add(ENDERITE_HORSE_ARMOR);
             entries.add(ROMOS_MAGIC_TOUCH_MUSIC_DISC);
             entries.add(SAD_PAST_MUSIC_DISC);

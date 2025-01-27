@@ -65,6 +65,7 @@ public class ModItemsGroup {
                         entries.add(ModItems.ENDERITE_CHESTPLATE);
                         entries.add(ModItems.ENDERITE_LEGGINGS);
                         entries.add(ModItems.ENDERITE_BOOTS);
+                        entries.add(ModItems.ENDERITE_SMITHING_TEMPLATE);
                         entries.add(ModItems.ENDERITE_HORSE_ARMOR);
                         entries.add(ModItems.ROMOS_MAGIC_TOUCH_MUSIC_DISC);
                         entries.add(ModItems.SAD_PAST_MUSIC_DISC);

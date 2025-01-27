@@ -414,5 +414,16 @@ public class ModRecipeProvider extends FabricRecipeProvider {
                 .criterion(hasItem(ModBlocks.CHORUS_PLANKS), conditionsFromItem(ModBlocks.CHORUS_PLANKS))
                 .offerTo(exporter, Identifier.of(Mod.MOD_ID, "chair"));
 
+        offerSmithingTrimRecipe(exporter, ModItems.ENDERITE_SMITHING_TEMPLATE, Identifier.of(Mod.MOD_ID, "enderite"));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.ENDERITE_SMITHING_TEMPLATE, 2)
+                .pattern("EME")
+                .pattern("ESE")
+                .pattern("EEE")
+                .input('E', ModItems.ENDERITE_INGOT)
+                .input('M', ModBlocks.MOON_ROCK)
+                .input('S', ModItems.ENDERITE_SMITHING_TEMPLATE)
+                .criterion(hasItem(ModItems.ENDERITE_SMITHING_TEMPLATE), conditionsFromItem(ModItems.ENDERITE_SMITHING_TEMPLATE))
+                .offerTo(exporter, Identifier.of(Mod.MOD_ID, "space_smithing_template_copy_recipie"));
     }
 }

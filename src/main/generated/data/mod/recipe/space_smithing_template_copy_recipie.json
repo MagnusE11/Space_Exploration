@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "mod:enderite_ingot"
+    },
+    "M": {
+      "item": "mod:moon_rock"
+    },
+    "S": {
+      "item": "mod:enderite_smithing_template"
+    }
+  },
+  "pattern": [
+    "EME",
+    "ESE",
+    "EEE"
+  ],
+  "result": {
+    "count": 2,
+    "id": "mod:enderite_smithing_template"
+  }
+}

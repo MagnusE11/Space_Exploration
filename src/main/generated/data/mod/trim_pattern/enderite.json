@@ -1,0 +1,8 @@
+{
+  "asset_id": "mod:enderite",
+  "decal": false,
+  "description": {
+    "translate": "trim_pattern.mod.enderite"
+  },
+  "template_item": "mod:enderite_smithing_template"
+}

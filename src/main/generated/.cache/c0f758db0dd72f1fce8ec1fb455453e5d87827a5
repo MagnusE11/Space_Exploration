@@ -1,4 +1,4 @@
-// 1.21	2025-01-27T16:04:59.3980854	Mod/Model Definitions
+// 1.21	2025-01-27T22:40:12.9986711	Mod/Model Definitions
 873c722611d9192ee9fbadd548f8a4e492357161 assets\mod\models\item\moon_rock_slab.json
 271cf35bcf7ba1db9853d85d440f8dd2d225f6a7 assets\mod\models\block\chorus_door_top_right.json
 7f489545dab4f0e21c8986fba4b2144ed86390d5 assets\mod\models\item\enderite_boots_lapis_trim.json
@@ -96,8 +96,8 @@ c4a25990ae3a694e1b3820a2bafaaac68ff0c199 assets\mod\models\item\enderite_legging
 69b0fccf12be460377a95fe11051c617273b10df assets\mod\models\block\chorus_plant_crop_stage6.json
 e487d6b66b7f555cbba34f779b3ba5b02536cea5 assets\mod\models\block\chorus_berry_bush_stage3.json
 92542da6aa3d27aa53967bec625e75a0013ebad2 assets\mod\models\item\enderite_boots_gold_trim.json
-d9f05c842c9df69170a98227b64c85aaf376161a assets\mod\blockstates\chorus_fence.json
 5384832aa89dd121c16550ba937c1108c6ebf2a5 assets\mod\blockstates\chorus_log.json
+d9f05c842c9df69170a98227b64c85aaf376161a assets\mod\blockstates\chorus_fence.json
 40fc107b46e159f2b6197c3083a9e4dd8d69426e assets\mod\models\block\meteorite_trapdoor_open.json
 82e4b9a08a74201b9777cb4283be68490e14f5da assets\mod\models\block\chorus_slab.json
 e959eb3ed9d41c5cbbd829c7dcbb5fa8b732cea9 assets\mod\models\block\moon_rock_fence_side.json
@@ -129,8 +129,8 @@ df232c4edbd8cd8e42801ca5917a34f639d9e72f assets\mod\models\block\moon_rock_door_
 5aa4b26752b5d9b29faea6395186999601e4d675 assets\mod\models\block\meteorite_wall_side.json
 826b9111f784280057a5e62d176ecb3847677c80 assets\mod\models\item\moon_rock.json
 34aabeb112d00bb5b66c1fc831a0938b686d6767 assets\mod\models\block\meteorite_fence_inventory.json
-7c56af469429f3d3c388e419c6914a365cbb9321 assets\mod\blockstates\enderite_block.json
 3afa99d63eb4361945af21712d34a36674f7cab7 assets\mod\blockstates\uranium_ore.json
+7c56af469429f3d3c388e419c6914a365cbb9321 assets\mod\blockstates\enderite_block.json
 d994e418d9ca63a84033a82485b2d50a06aa2d71 assets\mod\models\item\enderite_chestplate.json
 cc8bcc67a8d20258e1356e0314189b9a7e4b19da assets\mod\models\item\enderite_helmet_iron_trim.json
 8b69a0f9e66b1ca01c9365375787315a52141811 assets\mod\models\item\enderite_sword.json
@@ -199,6 +199,7 @@ e3f176cf4af9153d80a8355be0bbe30e736c7d46 assets\mod\models\item\chorus_stairs.js
 512d06a13cd61ae0d11564f934e60fd14cbf867c assets\mod\models\item\meteorite_fence.json
 59a47a92fc5091ea88b2c6737388b04d2f11ab9a assets\mod\models\block\chorus_planks.json
 5522e7aa0373285f1bdd8e48a536bcdb3b89fe0c assets\mod\models\block\moon_rock_door_bottom_left_open.json
+a8056b925fb50c0a7e5f16ba7f8282a47e30b0b6 assets\mod\models\item\enderite_smithing_template.json
 9116d79ae03b031368f66dd7ac624f2a8ad43c41 assets\mod\models\block\chorus_wall_post.json
 2c1a7998e472ea0ba9c81b264c1077b7982eb23d assets\mod\blockstates\chorus_slab.json
 6e471ae88f179539754cc101f82ec3a2ac0ac3b0 assets\mod\models\block\moon_rock_button_inventory.json
