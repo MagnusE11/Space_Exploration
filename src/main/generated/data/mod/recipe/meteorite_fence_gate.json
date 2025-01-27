@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "E": {
+      "item": "mod:meteorite"
+    },
+    "F": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "FEF",
+    "FEF",
+    "   "
+  ],
+  "result": {
+    "count": 2,
+    "id": "mod:meteorite_fence_gate"
+  }
+}

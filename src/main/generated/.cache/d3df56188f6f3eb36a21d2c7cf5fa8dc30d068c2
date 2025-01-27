@@ -1,0 +1,17 @@
+// 1.21	2025-01-27T16:04:59.3740804	Mod/Tags for minecraft:block
+2d6d5316de2443fa97a6be2a662e1c266e590105 data\minecraft\tags\block\needs_iron_tool.json
+234d22f0e472c73365978d36c586bcb5382c505b data\minecraft\tags\block\slabs.json
+5ead1bbacc4ecf47212e6addd35c06039b5c9fec data\minecraft\tags\block\needs_diamond_tool.json
+7d7cda2f7cd134104c20cd4f59a41a8988d273f4 data\minecraft\tags\block\fence_gates.json
+cf92487f569ffaa8b987ae523447effaf581dfcd data\minecraft\tags\block\mineable\axe.json
+a37fe41d5897072f34bbab2743ba92e075ed4355 data\minecraft\tags\block\trapdoors.json
+42bd91ccca5d9a9b4b3a4afa7996f2c0fd071d10 data\minecraft\tags\block\stairs.json
+3e390a9bf1a2123b69d3717956622569f37b43ab data\minecraft\tags\block\doors.json
+c2d788cb240f79c0dc28a16d9ab0c4a9b466643c data\minecraft\tags\block\logs_that_burn.json
+8ea826c4cf30794d1791e4090b7b5e9e4b1049e7 data\minecraft\tags\block\fences.json
+0e2bcc08e8365ee5eeaebd695c0a8a5048aa9f59 data\minecraft\tags\block\walls.json
+b2081ffe1beaaac6b3ff444d278f1cda5dac17a4 data\minecraft\tags\block\beacon_base_blocks.json
+54da263a38332c0d8247ff19d9e5e8d5f3d3c82b data\minecraft\tags\block\planks.json
+405f0565d1b7e382c274efd5d6df267f91c9a3df data\minecraft\tags\block\mineable\pickaxe.json
+e8c3e6f5563446db9a73afdd753867147c67c11c data\minecraft\tags\block\pressure_plates.json
+4d21f3576155951beb7b479d8f01154c410a030f data\minecraft\tags\block\buttons.json

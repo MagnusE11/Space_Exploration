@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "mod:meteorite"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "mod:meteorite_button"
+  }
+}

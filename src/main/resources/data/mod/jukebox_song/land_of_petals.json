@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.mod.land_of_petals_desc"
+  },
+  "length_in_seconds": 270.0,
+  "sound_event": "mod:land_of_petals"
+}

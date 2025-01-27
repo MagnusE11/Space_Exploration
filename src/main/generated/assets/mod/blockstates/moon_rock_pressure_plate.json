@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "mod:block/moon_rock_pressure_plate"
+    },
+    "powered=true": {
+      "model": "mod:block/moon_rock_pressure_plate_down"
+    }
+  }
+}

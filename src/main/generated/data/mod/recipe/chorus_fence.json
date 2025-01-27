@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "E": {
+      "item": "mod:chorus_planks"
+    },
+    "F": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "EFE",
+    "EFE",
+    "   "
+  ],
+  "result": {
+    "count": 6,
+    "id": "mod:chorus_fence"
+  }
+}

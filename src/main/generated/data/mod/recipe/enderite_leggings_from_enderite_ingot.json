@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "E": {
+      "item": "mod:enderite_ingot"
+    },
+    "N": {
+      "item": "minecraft:netherite_leggings"
+    }
+  },
+  "pattern": [
+    "EEE",
+    "ENE",
+    "E E"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mod:enderite_leggings"
+  }
+}

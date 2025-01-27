@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "mod",
+	"version": "Beta 1.0.0",
+	"name": "Mod",
+	"description": "This mod adds another dimension for Minecraft it transforms a bit of the end to make it compatible with the idea of a space dimension. Space has always fascinated me and this is my take on space in Minecraft.",
+	"authors": [
+		"Magnus"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": ""
+	},
+	"license": "MIT",
+	"icon": "assets/mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"main.java.net.magnus.mod.Mod"
+		],
+		"fabric-datagen": [
+			"main.java.net.magnus.mod.ModDataGenerator"
+		],
+		"client": [
+			"main.java.net.magnus.mod.ModClient"
+		]
+	},
+	"mixins": [
+		"mod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

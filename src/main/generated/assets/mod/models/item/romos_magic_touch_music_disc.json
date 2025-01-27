@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mod:item/romos_magic_touch_music_disc"
+  }
+}

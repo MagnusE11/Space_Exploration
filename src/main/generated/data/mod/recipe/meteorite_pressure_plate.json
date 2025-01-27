@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "E": {
+      "item": "mod:meteorite"
+    }
+  },
+  "pattern": [
+    "   ",
+    "   ",
+    "EE "
+  ],
+  "result": {
+    "count": 4,
+    "id": "mod:meteorite_pressure_plate"
+  }
+}

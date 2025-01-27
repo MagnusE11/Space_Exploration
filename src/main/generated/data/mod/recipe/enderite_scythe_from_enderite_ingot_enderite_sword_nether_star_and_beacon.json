@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "item": "minecraft:beacon"
+    },
+    "E": {
+      "item": "mod:enderite_ingot"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "T": {
+      "item": "mod:enderite_sword"
+    }
+  },
+  "pattern": [
+    "ENB",
+    "ETN",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "mod:enderite_scythe"
+  }
+}

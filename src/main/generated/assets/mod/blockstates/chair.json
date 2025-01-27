@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "mod:block/chair",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "mod:block/chair"
+    },
+    "facing=south": {
+      "model": "mod:block/chair",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mod:block/chair",
+      "y": 270
+    }
+  }
+}

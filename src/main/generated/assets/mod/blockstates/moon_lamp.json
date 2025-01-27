@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "clicked=false": {
+      "model": "mod:block/moon_lamp"
+    },
+    "clicked=true": {
+      "model": "mod:block/moon_lamp_on"
+    }
+  }
+}

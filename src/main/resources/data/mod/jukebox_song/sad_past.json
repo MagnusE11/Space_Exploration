@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.mod.sad_past_desc"
+  },
+  "length_in_seconds": 145.0,
+  "sound_event": "mod:sad_past"
+}

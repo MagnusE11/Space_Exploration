@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "E": {
+      "item": "mod:enderite_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "T": {
+      "item": "mod:enderite_axe"
+    }
+  },
+  "pattern": [
+    "ETE",
+    "ES ",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "mod:enderite_viking_axe"
+  }
+}

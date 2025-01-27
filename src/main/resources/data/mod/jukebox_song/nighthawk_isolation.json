@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.mod.nighthawk_isolation_desc"
+  },
+  "length_in_seconds": 212.0,
+  "sound_event": "mod:nighthawk_isolation"
+}

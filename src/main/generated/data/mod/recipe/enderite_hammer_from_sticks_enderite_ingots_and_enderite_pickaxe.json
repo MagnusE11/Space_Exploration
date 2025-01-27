@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "E": {
+      "item": "mod:enderite_ingot"
+    },
+    "P": {
+      "item": "mod:enderite_pickaxe"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "EPE",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "mod:enderite_hammer"
+  }
+}

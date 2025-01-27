@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:stick"
+    },
+    "F": {
+      "item": "minecraft:netherite_shovel"
+    },
+    "N": {
+      "item": "mod:enderite_ingot"
+    }
+  },
+  "pattern": [
+    "FN ",
+    " E ",
+    " E "
+  ],
+  "result": {
+    "count": 1,
+    "id": "mod:enderite_shovel"
+  }
+}

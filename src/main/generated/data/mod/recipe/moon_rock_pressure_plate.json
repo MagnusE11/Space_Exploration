@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "E": {
+      "item": "mod:moon_rock"
+    }
+  },
+  "pattern": [
+    "   ",
+    "   ",
+    "EE "
+  ],
+  "result": {
+    "count": 4,
+    "id": "mod:moon_rock_pressure_plate"
+  }
+}

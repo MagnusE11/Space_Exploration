@@ -1,0 +1,49 @@
+{
+  "scythe_slash": {
+    "subtitle": "sounds.mod.scythe_slash",
+    "sounds": [
+      "mod:scythe_slash_1",
+      "mod:scythe_slash_2"
+    ]
+  },
+  "romos_magic_touch": {
+    "sounds": [
+      {
+        "name": "mod:romos_magic_touch",
+        "stream": true
+      }
+    ]
+  },
+  "sad_past": {
+    "sounds": [
+      {
+        "name": "mod:sad_past",
+        "stream": true
+      }
+    ]
+  },
+  "land_of_petals": {
+    "sounds": [
+      {
+        "name": "mod:land_of_petals",
+        "stream": true
+      }
+    ]
+  },
+  "nighthawk_isolation": {
+    "sounds": [
+      {
+        "name": "mod:nighthawk_isolation",
+        "stream": true
+      }
+    ]
+  },
+  "shiawase_vip": {
+    "sounds": [
+      {
+        "name": "mod:shiawase_vip",
+        "stream": true
+      }
+    ]
+  }
+}

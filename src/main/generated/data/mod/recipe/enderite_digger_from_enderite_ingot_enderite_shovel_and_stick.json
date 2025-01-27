@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "E": {
+      "item": "mod:enderite_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "T": {
+      "item": "mod:enderite_hoe"
+    }
+  },
+  "pattern": [
+    "EET",
+    "  S",
+    "  S"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mod:upgraded_enderite_hoe"
+  }
+}

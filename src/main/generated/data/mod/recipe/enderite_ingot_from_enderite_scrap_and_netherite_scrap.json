@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "N": {
+      "item": "mod:enderite_scrap"
+    }
+  },
+  "pattern": [
+    "NNN",
+    "NEE",
+    "EE "
+  ],
+  "result": {
+    "count": 1,
+    "id": "mod:enderite_ingot"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mod:block/moon_rock_slab"
+    },
+    "type=double": {
+      "model": "mod:block/moon_rock"
+    },
+    "type=top": {
+      "model": "mod:block/moon_rock_slab_top"
+    }
+  }
+}

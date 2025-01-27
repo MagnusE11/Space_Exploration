@@ -1,0 +1,19 @@
+{
+  "values": [
+    "mod:chorus_log",
+    "mod:stripped_chorus_log",
+    "mod:chorus_wood",
+    "mod:stripped_chorus_wood",
+    "mod:chorus_planks",
+    "mod:chorus_trapdoor",
+    "mod:chorus_wall",
+    "mod:chorus_door",
+    "mod:chorus_fence",
+    "mod:chorus_button",
+    "mod:chorus_fence_gate",
+    "mod:chorus_pressure_plate",
+    "mod:chorus_slab",
+    "mod:chair",
+    "mod:chorus_stairs"
+  ]
+}

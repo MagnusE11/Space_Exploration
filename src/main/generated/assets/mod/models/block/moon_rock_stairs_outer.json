@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "mod:block/moon_rock",
+    "side": "mod:block/moon_rock",
+    "top": "mod:block/moon_rock"
+  }
+}

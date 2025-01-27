@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.mod.shiawase_vip_desc"
+  },
+  "length_in_seconds": 183.0,
+  "sound_event": "mod:shiawase_vip"
+}

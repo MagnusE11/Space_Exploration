@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "mod:moon_rock"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "mod:moon_rock_button"
+  }
+}

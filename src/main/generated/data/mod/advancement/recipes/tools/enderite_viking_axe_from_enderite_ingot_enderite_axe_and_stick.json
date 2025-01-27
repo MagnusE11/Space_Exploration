@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_enderite_axe": {
+      "conditions": {
+        "items": [
+          {
+            "items": "mod:enderite_axe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "mod:enderite_viking_axe_from_enderite_ingot_enderite_axe_and_stick"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_enderite_axe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mod:enderite_viking_axe_from_enderite_ingot_enderite_axe_and_stick"
+    ]
+  }
+}
