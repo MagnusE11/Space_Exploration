@@ -10,6 +10,7 @@ public class ModItemTags {
     public static final TagKey<Item> CHORUS_LOGS = createTag("chorus_logs");
     public static final TagKey<Item> SPAWN_EGGS = createTag("spawn_eggs");
     public static final TagKey<Item> MUSIC_DISCS = createTag("music_discs");
+    public static final TagKey<Item> BOW = createTag("music_discs");
     public static final TagKey<Item> THROWABLE_PROJECTILES = createTag("throwable_projectiles");
     private ModItemTags() {
     }

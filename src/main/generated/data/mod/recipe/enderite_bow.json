@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "E": {
+      "item": "mod:enderite_ingot"
+    },
+    "M": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    " EM",
+    "E M",
+    " EM"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mod:enderite_bow"
+  }
+}

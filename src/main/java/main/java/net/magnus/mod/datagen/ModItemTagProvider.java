@@ -170,5 +170,11 @@ public class ModItemTagProvider extends FabricTagProvider.ItemTagProvider {
                 .add(ModItems.ENDERITE_CHESTPLATE)
                 .add(ModItems.ENDERITE_LEGGINGS)
                 .add(ModItems.ENDERITE_BOOTS);
+
+        getOrCreateTagBuilder(ItemTags.BOW_ENCHANTABLE)
+                .add(ModItems.ENDERITE_BOW);
+
+        getOrCreateTagBuilder(ModItemTags.BOW)
+                .add(ModItems.ENDERITE_BOW);
     }
 }

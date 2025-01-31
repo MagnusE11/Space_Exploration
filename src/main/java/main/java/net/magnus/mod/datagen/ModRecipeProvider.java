@@ -425,5 +425,14 @@ public class ModRecipeProvider extends FabricRecipeProvider {
                 .input('S', ModItems.ENDERITE_SMITHING_TEMPLATE)
                 .criterion(hasItem(ModItems.ENDERITE_SMITHING_TEMPLATE), conditionsFromItem(ModItems.ENDERITE_SMITHING_TEMPLATE))
                 .offerTo(exporter, Identifier.of(Mod.MOD_ID, "space_smithing_template_copy_recipie"));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.COMBAT, ModItems.ENDERITE_BOW, 1)
+                .pattern(" EM")
+                .pattern("E M")
+                .pattern(" EM")
+                .input('E', ModItems.ENDERITE_INGOT)
+                .input('M', Items.STRING)
+                .criterion(hasItem(ModItems.ENDERITE_SMITHING_TEMPLATE), conditionsFromItem(ModItems.ENDERITE_SMITHING_TEMPLATE))
+                .offerTo(exporter, Identifier.of(Mod.MOD_ID, "enderite_bow"));
     }
 }

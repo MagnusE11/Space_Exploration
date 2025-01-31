@@ -90,7 +90,7 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.ENDERITE_INGOT, Models.GENERATED);
         itemModelGenerator.register(ModItems.ENDERITE_SCRAP, Models.GENERATED);
         itemModelGenerator.register(ModItems.PORTAL_FRAGMENT, Models.GENERATED);
-        itemModelGenerator.register(ModItems.PORTAL_LIGHTER, Models.GENERATED);
+        //itemModelGenerator.register(ModItems.PORTAL_LIGHTER, Models.GENERATED);
         itemModelGenerator.register(ModItems.ROMOS_MAGIC_TOUCH_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.SAD_PAST_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.LAND_OF_PETALS_MUSIC_DISC, Models.GENERATED);

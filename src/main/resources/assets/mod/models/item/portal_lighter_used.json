@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "mod:item/portal_lighter"
+    "layer0": "mod:item/portal_lighter_used"
   }
 }

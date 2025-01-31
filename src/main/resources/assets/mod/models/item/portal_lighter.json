@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mod:item/portal_lighter"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "mod:used": 1
+      },
+      "model": "mod:item/portal_lighter_used"
+    }
+  ]
+}

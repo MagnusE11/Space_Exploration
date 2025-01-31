@@ -1,4 +1,4 @@
-// 1.21	2025-01-27T22:40:12.9846636	Mod/Block Loot Tables
+// 1.21	2025-01-31T14:24:43.5237444	Mod/Block Loot Tables
 ab6ee7d5d43bc25ea367a9d965fbb40e769d7070 data\mod\loot_table\blocks\moon_rock_button.json
 8898c265a1c46a745d82f444852456ed2d8fc67a data\mod\loot_table\blocks\moon_rock_slab.json
 3281830ed6547667804c8581051d422d5b5c63e4 data\mod\loot_table\blocks\uranium_nether_ore.json
@@ -18,9 +18,9 @@ b57c0bfb094396018b99c856ade790f7e8751301 data\mod\loot_table\blocks\chorus_butto
 490260109677da4daaba9a85ba077ecf35c374cc data\mod\loot_table\blocks\chorus_slab.json
 636dd49137665da812bb8cf597d231dfd51f7084 data\mod\loot_table\blocks\meteorite_slab.json
 1915a6f5c70b086ca0847251c407e17a8634ce46 data\mod\loot_table\blocks\moon_rock_pressure_plate.json
-8acb67eede361429732f49f94adb45e2be2f709b data\mod\loot_table\blocks\moon_rock_door.json
-a3890e955a6c61981c6b5a6987584affdd6900d2 data\mod\loot_table\blocks\chorus_sapling.json
 d0c9f89cc50981b03dc3f65f7b60e1e6a9ab42c8 data\mod\loot_table\blocks\moon_rock_wall.json
+a3890e955a6c61981c6b5a6987584affdd6900d2 data\mod\loot_table\blocks\chorus_sapling.json
+8acb67eede361429732f49f94adb45e2be2f709b data\mod\loot_table\blocks\moon_rock_door.json
 b92605cbcc93a7f9585e3c6f858d01b8bea64851 data\mod\loot_table\blocks\chorus_planks.json
 a41b97694f524e513c8cb0d122b68937298abe04 data\mod\loot_table\blocks\moon_rock_fence.json
 fab69634cdffa9676ae58b9cee0e8b0b51a016dc data\mod\loot_table\blocks\enderite_debris.json

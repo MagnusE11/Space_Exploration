@@ -84,6 +84,13 @@ public class ModItems {
                             .maxCount(1))
     );
 
+    public static final Item ENDERITE_BOW = registerItem("enderite_bow",
+            new EnderiteBowItem(
+                    new Item.Settings()
+                            .maxCount(1)
+                            .maxDamage(512))
+            );
+
     public static final Item ROMOS_MAGIC_TOUCH_MUSIC_DISC = registerItem("romos_magic_touch_music_disc",
             new Item(new Item.Settings()
                     .jukeboxPlayable(ModSounds.ROMOS_MAGIC_TOUCH_KEY)
@@ -168,6 +175,7 @@ public class ModItems {
             entries.add(ENDERITE_DIGGER);
             entries.add(ENDERITE_HOE);
             entries.add(UPGRADED_ENDERITE_HOE);
+            entries.add(ENDERITE_BOW);
             entries.add(ENDERITE_HELMET);
             entries.add(ENDERITE_CHESTPLATE);
             entries.add(ENDERITE_LEGGINGS);

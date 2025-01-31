@@ -61,6 +61,7 @@ public class ModItemsGroup {
                         entries.add(ModItems.ENDERITE_DIGGER);
                         entries.add(ModItems.ENDERITE_HOE);
                         entries.add(ModItems.UPGRADED_ENDERITE_HOE);
+                        entries.add(ModItems.ENDERITE_BOW);
                         entries.add(ModItems.ENDERITE_HELMET);
                         entries.add(ModItems.ENDERITE_CHESTPLATE);
                         entries.add(ModItems.ENDERITE_LEGGINGS);

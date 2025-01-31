@@ -1,4 +1,4 @@
-// 1.21	2025-01-27T22:40:13.0226668	Mod/Recipes
+// 1.21	2025-01-31T14:24:43.5447435	Mod/Recipes
 5dde63ecae4e96397fd015d252bc794cd907cba7 data\mod\advancement\recipes\building_blocks\moon_rock_stairs.json
 4a72e040638d3f731526bfe37c246824464924d1 data\mod\recipe\chorus_fence_gate.json
 8ac1f638832fb2bfb61acfa408c593b5d0eb347d data\mod\advancement\recipes\misc\uranium_nuggets_from_uranium_ingot.json
@@ -32,6 +32,7 @@ f3b6738734c2301fd71bcbaed1f27de3676aa084 data\mod\recipe\moon_lamp_from_moon_roc
 3ac9e61fc50c18a446390bd9486278bc15598d6a data\mod\recipe\moon_rock_button.json
 51e8621d74c9afa3561fe7f0ae4e1ae228e1648f data\mod\recipe\enderite_chestplate_from_enderite_ingot.json
 727c2c8751ab7c3277d9e267468559435a4f2e91 data\mod\advancement\recipes\misc\uranium_ingot_from_uranium_block.json
+fd819b13381a3c09a30871e8aa4f5032e4e12cef data\mod\recipe\enderite_bow.json
 04c3af67ab3444a0c67325754c9f80a189e3736c data\mod\recipe\moon_rock_pressure_plate.json
 e0e7b1472c708168378aa0a5f58e98d6c5bdfad0 data\mod\recipe\enderite_scrap_from_blasting_enderite_debris.json
 68cbbc6fae9758936ad78b888b1eeafe855c8e47 data\mod\advancement\recipes\building_blocks\chorus_planks.json
@@ -70,6 +71,7 @@ ef968171048f2df549e632035a0ac2cdca7773a4 data\mod\recipe\enderite_block_from_end
 3471592e0d829fe718e73a7f71153c4c3c0407cf data\mod\advancement\recipes\misc\uranium_block_from_uranium_ingot.json
 46414372206b264f754aed6dd52974afca2b999a data\mod\recipe\enderite_sword_from_enderite_and_stick.json
 c160616597586d6ae82076fc1f18b9ff639268b7 data\mod\recipe\moon_rock_wall.json
+0f3c818c16f11a8d09c0f7b1acd700c6075a1eb5 data\mod\advancement\recipes\combat\enderite_bow.json
 9db996c6d24ed9928f90c9f8e668162cc6e520a6 data\mod\advancement\recipes\misc\enderite_ingot_from_enderite_scrap_and_netherite_scrap.json
 071e7693ea9f91b8765e98ba4134b4eb57fb0d01 data\mod\recipe\enderite_axe_from_enderite_and_stick_1.json
 0392659fa2807e7a4ee2813643686bdac8dbf06f data\mod\advancement\recipes\misc\enderite_pickaxe_from_enderite_and_stick.json

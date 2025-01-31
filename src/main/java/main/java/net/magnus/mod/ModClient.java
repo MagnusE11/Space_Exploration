@@ -3,6 +3,7 @@ package main.java.net.magnus.mod;
 import main.java.net.magnus.mod.block.ModBlocks;
 import main.java.net.magnus.mod.entity.ModEntities;
 import main.java.net.magnus.mod.entity.client.*;
+import main.java.net.magnus.mod.util.ModModelPredicates;
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.fabric.api.blockrenderlayer.v1.BlockRenderLayerMap;
 import net.fabricmc.fabric.api.client.rendering.v1.EntityModelLayerRegistry;
@@ -31,5 +32,7 @@ public class ModClient implements ClientModInitializer {
         EntityRendererRegistry.register(ModEntities.ENDER_WORM, EnderWormRenderer::new);
 
         EntityRendererRegistry.register(ModEntities.CHAIR, ChairRenderer::new);
+
+        ModModelPredicates.registerModelPredicates();
     }
 }
